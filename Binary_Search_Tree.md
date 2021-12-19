@@ -2,7 +2,7 @@
 
 1. Root = 5 dir.
 2. Root' un(5) sağ tarafına 7 sayısı
-               sol tarafına 3 sayısı bulunur.
+               sol tarafına 2 sayısı bulunur.
                
                  5
               2      7
