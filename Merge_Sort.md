@@ -19,4 +19,5 @@
 #### 2- Big-O gösterimini yazınız.
   
   2^x=n
+  
   O(nlogn)
