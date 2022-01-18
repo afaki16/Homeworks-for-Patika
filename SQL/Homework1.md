@@ -1,5 +1,5 @@
-## 1. Film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
- ### SELECT title,description FROM film
+#### 1. Film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
+ ##### SELECT title,description FROM film
 
 ## 2. Film tablosunda bulunan tüm sütunlardaki verileri film uzunluğu (length) 60 dan büyük VE 75 ten küçük olma koşullarıyla sıralayınız.
  ### SELECT * FROM film WHERE length > 60 and length < 75  
